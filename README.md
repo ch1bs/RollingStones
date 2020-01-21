@@ -1,2 +1,3 @@
 # RollingStones
-Simple tribute page for The Rolling Stones
+Simple tribute page to the Rolling stones wiht Home, About and Store pages
+
