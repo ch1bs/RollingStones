@@ -100,7 +100,7 @@ body {
 .main-footer {
     background-color: #56CCF2;
     color: white;
-    padding: .25em 0;
+    padding: 0 .25em;
 }
 
 .main-footer-container {
